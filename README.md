@@ -9,7 +9,7 @@
 ## 📌 Проекты
 
 ### 1️⃣ Ручное тестирование
-- **Тест-план**: [TestPlan.md](./ManualTesting/TestPlan.md)
+- **Тест-план**: https://github.com/DennisP1980/QA-Portfolio/blob/main/тест-план_начало.xlsx
 - **Чек-листы**: [Checklists.md](./ManualTesting/Checklists.md)
 - **Баг-репорты**: [BugReports.md](./ManualTesting/BugReports.md)
 
